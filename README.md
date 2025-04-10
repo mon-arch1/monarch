@@ -1,6 +1,6 @@
 if game.PlaceId == 1962086868 then
 
-local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
+local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/monarch/Script/main/Tower.of,hell"))()
 
 local Window = Rayfield:CreateWindow({
    Name = "monarch",
